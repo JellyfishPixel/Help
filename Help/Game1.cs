@@ -10,6 +10,7 @@ namespace Help
         private SpriteBatch _spriteBatch;
 
         int heko;
+        bool final;
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
