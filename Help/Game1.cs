@@ -11,6 +11,7 @@ namespace Help
 
         int heko;
         bool final;
+        float point;
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
