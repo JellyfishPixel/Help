@@ -9,6 +9,7 @@ namespace Help
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
 
+        int heko;
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
